@@ -27,6 +27,7 @@
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ### 💻 Programming Languages
 
