@@ -14,7 +14,7 @@
 - 💻 Interested in **Software Development & Technology**
 - 🌐 I have studied **Web Development**
 - 🧠 Familiar with **C, C++, Java and Python**
-- 🌱 Currently learning **Python, SQL and AI/ML**
+- 🌱 Currently learning **Python, DBMS (SQL) and AI/ML,software engineering**
 - 🚀 Interested in building practical projects
 - 🎯 My goal is to become a skilled **Software Developer**
 
