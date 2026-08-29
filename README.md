@@ -42,12 +42,11 @@
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-- AI/ML Fundamentals
+- Feature engineering (AI/ML)
 - Machine Learning
 
 ### 🔧 Tools
 
-- Git
 - GitHub
 - VS Code
 
@@ -61,6 +60,7 @@
 - HTML
 - CSS
 - JavaScript
+- Bootstrap(basic)
 
 **Programming**
 - C
@@ -74,11 +74,9 @@ Currently learning:
 - 🗄️ SQL
 - 🤖 Artificial Intelligence & Machine Learning
 
-I have also studied **Java and Python previously** and continue to improve my skills.
+I have also studied **Java previously** and continue to improve my skills.
 
 ---
-
-## 🚀 Projects
 
 ## 🚀 My Projects
 
@@ -102,7 +100,7 @@ information about car parking solutions and services.
 A simple calculator project developed to perform
 basic arithmetic operations.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** HTML
 
 ---
 
