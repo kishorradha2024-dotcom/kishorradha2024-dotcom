@@ -116,19 +116,20 @@ basic arithmetic operations.
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorradha2024-dotcom&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gargisinghal123&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gargisinghal123&layout=compact&theme=radical)
+
+## 🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/kishorradha2024-dotcom">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/kishoradhda2024-dotcom">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge">
   </a>
 </p>
 
